@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-rxalu7cq3t4un0yl.us.auth0.com"
      clientId="ziHqRfeA3hkmAGVUeVXWBZxxmzfz1zCz"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+      redirect_uri: "https://royal-castle.vercel.app"
      }}
      audience='http://localhost:8000'
      scope="openid profile email"
